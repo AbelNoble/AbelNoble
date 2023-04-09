@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm [Abel](https://abelnoble.github.io), a Software Engineer 👋
+
+- 🔭 I’m looking for internship positions in the startup or development space
+- 🌱 I’m currently learning about ethics in Artificial Intelligence
+- 💬 Ask me about tech + philosophy
+- 📫 How to reach me: [abeln@umich.edu](mailto:abeln@umich.edu)
 
 <!--
 **AbelNoble/AbelNoble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
