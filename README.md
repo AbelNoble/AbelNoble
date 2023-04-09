@@ -5,7 +5,7 @@
 - 💬 Ask me about tech + philosophy
 - 📫 How to reach me: [abeln@umich.edu](mailto:abeln@umich.edu)
 
-*Check out one of my projects favorite projects below: Simplifying Office Hours! 👇*
+*Check out one of my favorite projects below: Simplifying Office Hours! 👇*
 
 <!--
 **AbelNoble/AbelNoble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
