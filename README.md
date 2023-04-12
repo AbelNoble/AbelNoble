@@ -1,8 +1,8 @@
 ### Hi there, I'm [Abel](https://abelnoble.github.io), a Software Engineer 👋
 
 - 🔭 I’m looking for internship positions in the startup space
-- 🌱 I’m currently learning about ethics in Artificial Intelligence
-- 💬 Ask me about tech + philosophy
+- 🌱 I’m currently learning about ethics in AI
+- 💬 Ask me about Philosophy, Entrepreneurship, or Physics
 - 📫 How to reach me: [abeln@umich.edu](mailto:abeln@umich.edu)
 
 *Check out one of my favorite projects below: Simplifying Office Hours! 👇*
