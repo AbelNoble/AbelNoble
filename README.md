@@ -1,16 +1,26 @@
-### Hey there, I'm [Abel](https://abelnoble.github.io), a Software Engineer 👋
+## 👋🏾 Hey, I'm [Abel](https://abelnoble.github.io)! 
 
-## Programming Languages
+### Languages
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/>
 
-- 🔭 I’m looking for internship positions in the startup space
-- 🌱 I’m currently learning about ethics in AI
-- 💬 Ask me about Philosophy, Entrepreneurship, or Physics
-- 📫 How to reach me: [abeln@umich.edu](mailto:abeln@umich.edu)
+ ### About
+ ```python
+ class About:
+ 	user = 'Abel Thomas Noble'
+		current_work = 'SWE Intern [at] Altair'
+		learning_about = [
+				'Philosophy',
+				'Entrepreneurship',
+				'Physics'
+			]
+      
+	def Ambitions():
+		BuildAStartup()
+ ```
 
+### Contact
+[![Gmail Badge](https://img.shields.io/badge/-abeln@umich.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abeln@umich.edu)](mailto:abeln@umich.edu)
 
-
-*Check out one of my favorite projects below: Simplifying Office Hours! 👇*
 
 <!--
 **AbelNoble/AbelNoble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
