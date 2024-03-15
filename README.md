@@ -7,7 +7,7 @@
  ```python
  class About:
  	user = 'Abel Thomas Noble'
-		current_work = 'SWE Intern [at] Altair'
+		current_work = 'Incoming SWE Intern [at] Meta'
 		learning_about = [
 				'Philosophy',
 				'Entrepreneurship',
