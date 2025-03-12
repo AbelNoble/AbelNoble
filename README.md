@@ -1,40 +1,11 @@
 # ![Header Image](https://github.com/AbelNoble/AbelNoble/blob/aaf8ac143df0f2f21296a74bd77bbdd4761b7dbd/boring_software.jpg)
 
-## 👋🏾 Hey, I'm [Abel](https://abelthomasnoble.com)! 
+i enjoy building stuff and sometimes writing code to do so
 
-### Languages
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/>
+lastest endeavors
+growing health app w/ over 100k users
 
- ### About
- ```python
- class About:
- 	user = 'Abel Thomas Noble'
-		current_work = 'Incoming SWE Intern [at] Meta'
-		learning_about = [
-				'Philosophy',
-				'Entrepreneurship',
-				'Physics'
-			]
-      
-	def Ambitions():
-		BuildAStartup()
- ```
-
-### Contact
-[![Gmail Badge](https://img.shields.io/badge/-abeln@umich.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abeln@umich.edu)](mailto:abeln@umich.edu)
-
-
-<!--
-**AbelNoble/AbelNoble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+previous endeavors
+[Plack](https://plack.io): Scan what you eat for Microplastics
+[HackersMeetHacker](https://hackersmeethackers.com): 5 hackers meet for dinner on a random thursday
+[Nostalgia](https://nostalgia-app.com): Relive memories from your favorite apps
