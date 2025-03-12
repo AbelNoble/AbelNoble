@@ -5,11 +5,11 @@
 ---
 
 ### latest endeavors  
-**growing health app w/ over 100k users**  
+**growing health app w/ over 100k users**
 
 ---
 
 ### previous endeavors  
-- **[Plack](https://plack.io)** – scan what you eat for Microplastics  
-- **[HackersMeetHackers](https://hackersmeethackers.com)** – 5 hackers meet for dinner on a random Thursday  
-- **[Nostalgia](https://nostalgia-app.com)** – relive memories from your favorite apps  
+- **[Plack](https://plack.io)** – scan what you eat for microplastics
+- **[HackersMeetHackers](https://hackersmeethackers.com)** – 5 hackers meet for dinner on a random thursday
+- **[Nostalgia](https://nostalgia-app.com)** – relive memories from your favorite apps
