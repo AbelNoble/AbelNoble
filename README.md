@@ -1,6 +1,6 @@
 # ![Header Image](https://github.com/AbelNoble/AbelNoble/blob/aaf8ac143df0f2f21296a74bd77bbdd4761b7dbd/boring_software.jpg)
 
-### i enjoy building stuff and sometimes writing code to do so  
+### i sometimes write code
 
 ---
 
