@@ -6,7 +6,7 @@
 
 ### latest endeavors  
 - **growing health app w/ over 100k users**
-- [Figaro](https://tryfigaro.com) - cursor for music production
+- **building marketing tools for brands**
 
 ---
 
